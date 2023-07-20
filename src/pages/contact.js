@@ -52,5 +52,5 @@ const Contact = () => {
 
 export default Contact;
 export const Head = () => (
-  <SEO title="contact" />
+  <SEO title="Contact" />
 );
